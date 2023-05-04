@@ -18,9 +18,8 @@ How to reach me **muhammadzain0742@gmail.com**
 
 
 - Connect with me through
-- ![linkedin](https://user-images.githubusercontent.com/104026725/236291108-ed833e60-52d0-488b-bc67-1304fe3af270.png)
-(https://www.linkedin.com/in/muhammad--zain/)
-
+- ![LinkedIn(https://www.linkedin.com/in/muhammad--zain/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![LinkedIn(https://www.linkedin.com/in/muhammad--zain/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 </p>
 
