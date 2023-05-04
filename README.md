@@ -10,7 +10,7 @@
 - 💬 Ask me about **Frontend Development, My learning resources, Productivity, Time Management, Personal Development**
 
 - 📫 How to reach me **muhammadzain0742@gmail.com**
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 </p>
