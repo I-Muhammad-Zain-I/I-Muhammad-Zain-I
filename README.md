@@ -5,7 +5,7 @@
  I’m currently a Student@NEDUET. **Working on Semester Project which is KnowLink. An innovative blog application**
 
 - ![deep-learning](https://user-images.githubusercontent.com/104026725/236287541-6db856a1-7984-4598-b73d-8d473bdf6d51.png)
- I’m currently learning **React.js and Backend developement**
+ I’m currently learning **Js -> React.js and basic Backend developement**
 
 - ![collaboration](https://user-images.githubusercontent.com/104026725/236287701-eb7091d5-79a0-4425-a729-1e74849e04e4.png)
  I’m looking to collaborate on **Frontend Projects concerned with HTML, CSS and Js**
