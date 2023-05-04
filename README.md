@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Development, My learning resources, Productivity, Time Management, Personal Development**
 
--  ![network](https://user-images.githubusercontent.com/104026725/236286909-30c5dd94-589e-48db-ae31-da029271c586.png)
+-  ![link](https://user-images.githubusercontent.com/104026725/236287080-27cd1993-0d41-4da5-9a9a-65fd24650561.png)
 How to reach me **muhammadzain0742@gmail.com**
 
 
