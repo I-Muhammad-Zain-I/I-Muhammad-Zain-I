@@ -1,8 +1,8 @@
 <h1 align="center">Hey There, I am Muhammad Zain</h1>
 <h3 align="center">An Inquisitive frontend developer from Pakistan.</h3>
 
--![graduation](https://user-images.githubusercontent.com/104026725/236287356-745ac9f2-8651-4672-9d44-283cf9f52fd3.png)
-  I’m currently a Student@NEDUET. **Working on Semester Project which is KnowLink. An innovative blog application**
+- ![graduation](https://user-images.githubusercontent.com/104026725/236287356-745ac9f2-8651-4672-9d44-283cf9f52fd3.png)
+ I’m currently a Student@NEDUET. **Working on Semester Project which is KnowLink. An innovative blog application**
 
 - ![deep-learning](https://user-images.githubusercontent.com/104026725/236287541-6db856a1-7984-4598-b73d-8d473bdf6d51.png)
  I’m currently learning **React.js and Backend developement**
@@ -18,7 +18,7 @@ How to reach me **muhammadzain0742@gmail.com**
 
 
 - Connect with me through
-- ![[LinkedIn](https://www.linkedin.com/in/muhammad--zain/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/muhammad--zain/))
 
 
 </p>
