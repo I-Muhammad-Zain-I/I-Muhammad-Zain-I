@@ -20,7 +20,8 @@ How to reach me **muhammadzain0742@gmail.com**
 - Connect with me through
 - ![LinkedIn(https://www.linkedin.com/in/muhammad--zain/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 - ![LinkedIn(https://www.linkedin.com/in/muhammad--zain/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+- <a href="https://www.linkedin.com/in/muhammad--zain/"><img src=![linkedin](https://user-images.githubusercontent.com/104026725/236292384-c346c358-3fce-48c4-ae32-77b0419b9f0a.png) </a>
+ alt="cplusplus" width="40" height="40">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
