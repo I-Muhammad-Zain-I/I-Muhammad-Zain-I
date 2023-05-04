@@ -18,7 +18,7 @@ How to reach me **muhammadzain0742@gmail.com**
 
 
 - Connect with me through
-- ![LinkedIn(https://www.linkedin.com/in/muhammad--zain/)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- ![LinkedIn](https://www.linkedin.com/in/muhammad--zain/)
 
 
 </p>
