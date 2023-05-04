@@ -9,8 +9,11 @@
 
 - 💬 Ask me about **Frontend Development, My learning resources, Productivity, Time Management, Personal Development**
 
-- 📫 How to reach me **muhammadzain0742@gmail.com**
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+-  ![network](https://user-images.githubusercontent.com/104026725/236286909-30c5dd94-589e-48db-ae31-da029271c586.png)
+How to reach me **muhammadzain0742@gmail.com**
+
+
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 </p>
