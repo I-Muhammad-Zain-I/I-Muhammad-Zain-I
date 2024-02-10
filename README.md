@@ -1,5 +1,5 @@
 <h1 align="center">Hey There, I am Muhammad Zain</h1>
-<h3 align="center">An Inquisitive frontend developer from Pakistan.</h3>
+<h3 align="center">An Inquisitive Undergradute Frontend Developer from Pakistan.</h3>
 
 Welcome to my GitHub repository! 👋 As a frontend developer passionate about creating engaging and user-friendly web experiences, I leverage my skills in realm of Frontend to build responsive and aesthetically pleasing websites.
 
