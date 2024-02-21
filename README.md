@@ -4,7 +4,7 @@
 Welcome to my GitHub repository! 👋 As a frontend developer passionate about creating engaging and user-friendly web experiences, I leverage my skills in realm of Frontend to build responsive and aesthetically pleasing websites.
 
 - ![deep-learning](https://user-images.githubusercontent.com/104026725/236287541-6db856a1-7984-4598-b73d-8d473bdf6d51.png)
- I’m currently learning **React Ecosystem -> On Redux Currently**
+ I’m currently learning **TypeScript**
 
 - ![collaboration](https://user-images.githubusercontent.com/104026725/236287701-eb7091d5-79a0-4425-a729-1e74849e04e4.png)
  I’m looking to collaborate on **Frontend Projects**
