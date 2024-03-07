@@ -4,7 +4,7 @@
 Welcome to my GitHub repository! 👋 As a frontend developer passionate about creating engaging and user-friendly web experiences, I leverage my skills in realm of Frontend to build responsive and aesthetically pleasing websites.
 
 - ![deep-learning](https://user-images.githubusercontent.com/104026725/236287541-6db856a1-7984-4598-b73d-8d473bdf6d51.png)
- I’m currently learning **TypeScript**
+ I’m currently learning **Django**
 
 - ![collaboration](https://user-images.githubusercontent.com/104026725/236287701-eb7091d5-79a0-4425-a729-1e74849e04e4.png)
  I’m looking to collaborate on **Frontend Projects**
@@ -24,6 +24,7 @@ Connect with me through **https://www.linkedin.com/in/muhammad--zain/**
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+<img width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
