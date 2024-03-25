@@ -35,7 +35,7 @@ Connect with me through https://www.linkedin.com/in/muhammad--zain/
 
 
 
-## 👨🏻‍💻 Most Used Languages
+## 👨🏻‍💻 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Muhammad-Zain-I&layout=compact&theme=dracula)
 
 ## 📊 Github Stats
