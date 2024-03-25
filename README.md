@@ -1,8 +1,7 @@
 <h1 align="center">Hey There, I am Muhammad Zain</h1>
 <h3 align="center">An Inquisitive Software Engineer from Pakistan.</h3>
 
-Welcome to my GitHub repository! 👋 As a Software Engineer passionate about Web Development, creating engaging and user-friendly web experiences, I leverage my skills in realm of Frontend to build responsive and aesthetically pleasing websites.
-
+Greetings! 👋 I'm thrilled to have you here in my corner of GitHub. I'm a dedicated Undergraduate Software Engineer deeply passionate about crafting exceptional web experiences. With a focus on frontend development, I specialize in building responsive, user-friendly websites that captivate and engage audiences. However, my commitment extends beyond just creating visually appealing interfaces; I place significant emphasis on the elegance and clarity of my code. Clean, understandable code is not just a preference for me—it's a core value that underpins every project I undertake. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or suggestions. Let's build something amazing! 🚀
 
 
 - ![collaboration](https://user-images.githubusercontent.com/104026725/236287701-eb7091d5-79a0-4425-a729-1e74849e04e4.png)
@@ -10,14 +9,14 @@ Welcome to my GitHub repository! 👋 As a Software Engineer passionate about We
 
 
 -  ![network (1)](https://user-images.githubusercontent.com/104026725/236288092-f5bf1aa8-f837-4d8d-8fd2-4e39ae4d4553.png)
-How to reach me **muhammadzain0742@gmail.com**
+How to reach me muhammadzain0742@gmail.com
 
 
 - ![link (2)](https://user-images.githubusercontent.com/104026725/236293176-a1cee685-1b44-4482-b8a2-6ed95bf8cf18.png)
-Connect with me through **https://www.linkedin.com/in/muhammad--zain/**
+Connect with me through https://www.linkedin.com/in/muhammad--zain/
 
 
-<h3 align="left">Technologies</h3>
+## Technologies
 <p align="left"> 
 <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 <img width="40" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
@@ -34,13 +33,18 @@ Connect with me through **https://www.linkedin.com/in/muhammad--zain/**
 <img width="40" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
 </p>
 
-### 📊 Github Stats
+
+
+## 👨🏻‍💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-Muhammad-Zain-I&layout=compact&theme=dracula)
+
+## 📊 Github Stats
 
 <picture>
   <img src="https://github-readme-stats.vercel.app/api?username=I-Muhammad-Zain-I&show_icons=true&theme=tokyonight" />
 </picture>
 
-### 📈 Github Activity
+## 📈 Github Activity
 <picture>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-Muhammad-Zain-I&theme=tokyo-night" />
 </picture>
