@@ -1,9 +1,9 @@
 <h1 align="center">Hey There, I am Muhammad Zain</h1>
 <h3 align="center">An Inquisitive Software Engineer from Pakistan.</h3>
+Greetings! 👋 I'm excited to welcome you to my GitHub profile. As a passionate MERN Fullstack Developer, I specialize in creating dynamic and responsive web applications. From designing engaging front-end interfaces to developing robust back-end solutions, I bring a holistic approach to building exceptional web experiences. My commitment goes beyond just crafting appealing user interfaces; I focus on writing clean, maintainable code that enhances the overall functionality and performance of my projects. Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or ideas. Let's build something amazing together! 🚀
 <p align="center"> 
-<img width="550" src="https://github.com/user-attachments/assets/22115b30-763a-4539-8d17-b46ab3ce0784" alt="HTML" title="HTML"/>
+<img width="400" src="https://github.com/user-attachments/assets/22115b30-763a-4539-8d17-b46ab3ce0784" alt="HTML" title="HTML"/>
 </p>
-Greetings! 👋 I'm thrilled to have you here in my corner of GitHub. I'm a dedicated Undergraduate Software Engineer deeply passionate about crafting exceptional web experiences. With a focus on frontend development, I specialize in building responsive, user-friendly websites and Mobile Applications that captivate and engage audiences. However, my commitment extends beyond just creating visually appealing interfaces; I place significant emphasis on the elegance and clarity of my code. Clean, understandable code is not just a preference for me—it's a core value that underpins every project I develop Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or suggestions. Let's build something amazing! 🚀
 
 
 -  ![network (1)](https://user-images.githubusercontent.com/104026725/236288092-f5bf1aa8-f837-4d8d-8fd2-4e39ae4d4553.png)
@@ -25,6 +25,8 @@ Connect with me through https://www.linkedin.com/in/muhammad--zain/
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescript.com/)
 [![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux%20Toolkit-purple?style=for-the-badge&logo=redux&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge&logo=expo&logoColor=white)](https://reactnative.org/)
 [![ReactNative](https://img.shields.io/badge/-React%20Native-blue?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.org/)
 [![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -32,6 +34,7 @@ Connect with me through https://www.linkedin.com/in/muhammad--zain/
 
 ### Database
 [![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=MongoDB&logoColor=white)](https://reactjs.org/)
 
 ### Tools
 [![Postman](https://img.shields.io/badge/-postman-orange?style=for-the-badge&logo=postman&logoColor=white)](https://www.figma.com/)
